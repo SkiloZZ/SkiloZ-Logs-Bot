@@ -1,0 +1,15 @@
+{
+  "name": "skiloz-logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SkiloZ#0212",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "quick.db": "^7.1.3"
+  }
+}
