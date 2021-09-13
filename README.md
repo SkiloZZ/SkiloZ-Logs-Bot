@@ -1,4 +1,4 @@
-# SkiloZ-Logs-Bot
+# Logs-Bot
 
 Un bot discord en js qui regroupe plusieurs logs.
 
@@ -7,5 +7,3 @@ Avoir installé les packages (npm i discord.js quick.db), config le token et pre
 Les commandes sont:
 (prefix)setlogs
 (prefix)resetlogs
-
-SkiloZ#0212
